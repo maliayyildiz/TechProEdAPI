@@ -42,6 +42,7 @@ public class GetRequest14 extends TestBase {
         softAssert.assertEquals("quis ut nam facilis et officia qui",hMap.get("title"));
         softAssert.assertTrue(hMap.get("userId").equals(1));
         softAssert.assertTrue(hMap.get("completed").equals(false));
+        softAssert.assertAll();
     }
 
 

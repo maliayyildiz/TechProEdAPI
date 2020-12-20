@@ -47,6 +47,7 @@ public class PutRequest01 extends TestBase {
         response.then().assertThat().body("status", Matchers.equalTo("success"),
                 "message",Matchers.equalTo("Successfully! Record has been updated."));
 
+        //soft assertion together with de-serilalization
         SoftAssert softAssert = new SoftAssert();
         HashMap<String,Object> map = response.as(HashMap.class);
         softAssert.assertEquals(map.get("status"),"success");

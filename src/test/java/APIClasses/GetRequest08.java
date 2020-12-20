@@ -12,7 +12,7 @@ public class GetRequest08 extends TestBase {
 
 	/*
 		     				Warm Up (13 minutes)
-		1) Create a class and name it as GetRequest08
+		1) Create a class and name it as you wish :)
 		2) When
 		     I send a GET Request to https://jsonplaceholder.typicode.com/todos
 		   Then
