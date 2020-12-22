@@ -1,0 +1,1206 @@
+ohio , 57865
+FL , 57880
+Test , 77
+null , 57888
+ , 57889
+null , 57890
+ohio , 31086
+ohio , 31087
+texas , 58968
+texas , 58975
+ohio , 31088
+null , 31089
+null , 31090
+texas , 58976
+texas , 58977
+Koblenz , 25390
+Koblenz , 25391
+Koblenz , 25392
+country , 31091
+Koblenz , 25393
+Koblenz , 25394
+Koblenz , 25395
+Koblenz , 25396
+TR , 31099
+Koblenz , 25397
+Manisa , 59104
+California , 59107
+Haute-Normandie , 21564
+Ile-de-France , 21565
+Dallas , 59110
+Alsace , 21567
+California , 59111
+Auvergne , 21569
+Manisa , 59112
+Trabzon , 59113
+Bretagne , 21572
+Dallas , 59131
+Champagne-Ardenne , 21574
+Corse (Corsica) , 21575
+Koblenz , 25398
+Koblenz , 25399
+Koblenz , 25400
+Koblenz , 27501
+Alsace , 19207
+Aquitaine , 19208
+Virginia , 27502
+Basse-Normandie  , 19210
+Bourgogne , 19211
+Virginia , 27503
+Virginia , 27504
+Virginia , 27506
+Virginia , 27507
+Virginia , 27508
+Virginia , 27509
+Virginia , 27510
+Virginia , 27511
+Virginia , 27512
+Virginia , 27513
+Virginia , 27514
+Virginia , 27515
+Virginia , 27516
+Franche-Comte , 21576
+Limousin , 21577
+Lorraine , 21578
+Midi-Pyrenees , 21579
+California , 59132
+Pays de la Loire , 21581
+Manisa , 59133
+Trabzon , 59134
+Provence-Alpes-Cote-d'Azur , 21584
+Rhone-Alpes , 21585
+ATHENS , 21586
+Virginia , 27517
+Virginia , 27518
+Istanbul , 21589
+HAMBURGG , 21590
+BREMENN , 21591
+Virginia , 27519
+Virginia , 27520
+Virginia , 27521
+Virginia , 27522
+Washington , 21596
+Virginia , 27523
+Virginia , 27524
+Virginia , 27525
+Koblenz , 27526
+Koblenz , 27527
+Koblenz , 27528
+TEXAS , 22703
+HAMBURGG , 22704
+BREMENN , 22705
+WASHINGTONN_DC , 22706
+HAMBURGG , 22707
+BREMENN , 22708
+WASHINGTONN_DC , 22709
+HAMBURGG , 22710
+BREMENN , 22711
+WASHINGTONN_DC , 22712
+HAMBRG , 22713
+HAMBRG , 22714
+HAMBRG , 22715
+HAMBRG , 22716
+HAMBRG , 22717
+HAMBRG , 22718
+JERENIMO , 22719
+Baden-Wurttemberg , 22720
+Baden-Wurttemberg , 22721
+Koblenz , 22722
+Koblenz , 22723
+ARIZONA , 22724
+Koblenz , 27529
+Amsterdam , 22726
+Amsterdam , 22727
+Amsterdam , 22728
+Mecklenburg , 22729
+Virginia , 22730
+Washington , 22731
+Malatya , 22732
+Karaman , 22733
+Karaman , 22734
+Karaman , 22735
+Yozgat , 22736
+karaman , 22737
+ADN-ADN , 22738
+Koblenz , 27530
+PARIS-PARIS , 22743
+FRANKFURT , 22744
+FRANKFURT , 22745
+Koblenz , 27531
+Koblenz , 27532
+Auvergne , 27533
+Auvergne , 27534
+Saarland , 22750
+Kansas , 25351
+Auvergne , 27535
+Helsinki , 25353
+Helsinki , 25354
+Helsinki , 25355
+Helsinki , 25356
+Helsinki , 25357
+Helsinki , 25358
+Utah , 25359
+Utah , 25360
+FRANKFURT , 25361
+PARIS , 25362
+PARIS , 25363
+Auvergne , 27536
+Auvergne , 27537
+Caykara , 25370
+California , 59204
+Manisa , 59205
+Dallas , 59212
+Dallas , 59213
+washington , 59217
+Bayburt , 59239
+Bayburt , 59244
+Bayburt , 59351
+Auvergne , 27538
+Auvergne , 27539
+Auvergne , 27541
+Auvergne , 27544
+Auvergne , 27546
+Centre , 27548
+Centre , 27549
+Centre , 27551
+Centre , 27553
+NY , 31077
+NJ , 31078
+FL , 31079
+Hey , 31096
+karaman , 4444
+Hey , 31097
+karaman , 122
+karaman , 121
+japonya , 120
+Ankara , 15
+ohio , 57853
+ohio , 57857
+ohio , 57859
+ohio , 57860
+ohio , 57861
+Texas , 57866
+Florida , 57867
+Oklahoma , 57868
+n , 31081
+ohio , 31092
+null , 57873
+null , 57874
+NY , 57881
+NJ , 57882
+FL , 57883
+ , 57891
+null , 57894
+Manisa , 57895
+NorthSouthCarolina , 58970
+texas , 58978
+texas , 58979
+texas , 58980
+texas , 58981
+texas , 58982
+texas , 58983
+texas , 58984
+texas , 58985
+texas , 58986
+texas , 58987
+texas , 58988
+texas , 58989
+texas , 58990
+Dallas , 58997
+California , 58998
+Manisa , 58999
+texas , 59101
+Dallas , 59106
+Manisa , 59108
+Trabzon , 59109
+chicago , 59135
+Dallas , 59136
+California , 59137
+Manisa , 59138
+Trabzon , 59139
+chicago , 59140
+Dallas , 59141
+California , 59142
+Manisa , 59143
+Trabzon , 59144
+Dallas , 59145
+California , 59146
+Manisa , 59147
+Trabzon , 59148
+Trabzon , 59206
+Dallas , 59207
+Manisa , 59209
+Dallas , 59214
+washington , 59218
+Bayburt , 59240
+Bayburt , 59241
+Bayburt , 59245
+Bayburt , 59352
+Bayburt , 59353
+Bayburt , 59359
+Bayburt , 59360
+Bayburt , 59363
+Bayburt , 59369
+NorthSouthCarolina , 59374
+null , 59377
+Eskisehir , 59382
+Denizli , 59383
+Eskisehir , 59386
+Denizli , 59387
+Eskisehir , 59390
+Denizli , 59391
+Eskisehir , 59394
+Denizli , 59395
+Eskisehir , 59398
+Denizli , 59399
+Africa , 59755
+Russia , 59756
+Africa , 59757
+Russia , 59758
+Africa , 59765
+Russia , 59766
+Africa , 59769
+Russia , 59770
+Africa , 59776
+Russia , 59777
+Africa , 59778
+Russia , 59779
+Bayburt , 59780
+Africa , 59783
+Russia , 59784
+Africa , 59787
+Russia , 59788
+Africa , 59789
+Russia , 59790
+Russia , 59792
+Arizona , 59795
+Arizona , 59797
+Arizona , 59798
+Arizona , 59799
+Russia , 59801
+Africa , 59802
+Russia , 59803
+Hawaii , 59808
+Indiana , 59809
+Bornova , 59810
+Bayrakli , 59811
+Karsiyaka , 59812
+Hawaii , 59813
+Indiana , 59814
+Hawaii , 59826
+Indiana , 59827
+Hawaii , 59830
+Indiana , 59831
+ohioohio , 59836
+ooooooo , 59842
+NY , 59846
+NJ , 59847
+FL , 59848
+Bayburt , 59902
+Bayburt , 59903
+Bayburt , 59906
+Bayburt , 59908
+Auvergne , 27540
+Auvergne , 27545
+Centre , 27547
+Centre , 27552
+Kobiz , 31080
+Hey , 31098
+ohio , 31100
+ohio , 57854
+ohio , 57858
+California , 57869
+null , 57875
+null , 57876
+Guzaystates , 57877
+NY , 57884
+NJ , 57885
+null , 31082
+NY , 31093
+FL , 57886
+texas , 57896
+texas , 57897
+texas , 57898
+NorthSouthCarolina , 58971
+texas , 58991
+texas , 58992
+Trabzon , 59000
+Dallas , 59114
+Dallas , 59115
+California , 59116
+Manisa , 59117
+Trabzon , 59118
+chicago , 59119
+Dallas , 59149
+California , 59150
+Manisa , 59201
+Trabzon , 59202
+Trabzon , 59210
+Dallas , 59215
+Malatya , 59219
+Afyon , 59220
+Luleburgaz , 59221
+Adana , 59222
+Hatay , 59223
+Malatya , 59224
+Afyon , 59225
+Luleburgaz , 59226
+Adana , 59227
+Hatay , 59228
+Bayburt , 59242
+Bayburt , 59246
+Bayburt , 59247
+Bayburt , 59354
+Bayburt , 59355
+Bayburt , 59356
+null , 59361
+NorthSouthCarolina , 59372
+NorthSouthCarolina , 59373
+NorthSouthCarolina , 59375
+NorthSouthCarolina , 59376
+Eskisehir , 59378
+Denizli , 59379
+Eskisehir , 59380
+Denizli , 59381
+Eskisehir , 59384
+Denizli , 59385
+Eskisehir , 59388
+Denizli , 59389
+Eskisehir , 59392
+Denizli , 59393
+Eskisehir , 59396
+Denizli , 59397
+Africa , 59400
+Russia , 59751
+Africa , 59752
+Russia , 59753
+Africa , 59759
+Russia , 59760
+Africa , 59761
+Russia , 59762
+Africa , 59763
+Russia , 59764
+Africa , 59767
+Russia , 59768
+Africa , 59771
+Russia , 59772
+Africa , 59774
+Russia , 59775
+Bayburt , 59781
+Bayburt , 59782
+Africa , 59785
+Russia , 59786
+Africa , 59791
+Africa , 59793
+Russia , 59794
+Arizona , 59796
+Africa , 59800
+Hawaii , 59804
+Indiana , 59805
+Hawaii , 59806
+Indiana , 59807
+Hawaii , 59815
+Indiana , 59816
+Bornova , 59817
+Bayrakli , 59818
+Karsiyaka , 59819
+Hawaii , 59820
+Indiana , 59821
+Hawaii , 59822
+Indiana , 59823
+Hawaii , 59824
+Indiana , 59825
+Hawaii , 59828
+Indiana , 59829
+Hawaii , 59832
+Indiana , 59833
+Hawaii , 59834
+Indiana , 59835
+ooooooo , 59837
+ooooooo , 59838
+ooooooo , 59839
+NY , 59843
+NJ , 59844
+FL , 59845
+NY , 59849
+NJ , 59850
+FL , 59901
+Bayburt , 59904
+Bayburt , 59907
+Auvergne , 27542
+Auvergne , 27543
+Centre , 27550
+null , 57851
+ohio , 57855
+ohio , 57862
+LAMUISLAND , 27564
+LAMUISLAND , 27565
+Baden-Wurttemberg , 27566
+Baden-Wurttemberg , 27567
+Baden-Wurttemberg , 27568
+Utopia State 101 , 27569
+Utopia State 101 , 27570
+Utopia State 10 , 27571
+Utopia State 102 , 27572
+Utopia State 10 , 27573
+Utopia State 103 , 27574
+Houston Insert , 2
+Texas-Arizona , 3
+Utopia State 202 , 27575
+Utopia State 202 , 27576
+Utopia State 203 , 27577
+Utopia State 204 , 27578
+Utopia State 204 , 27579
+Utopia State 205 , 27580
+Utopia State 206 , 27581
+Utopia State 207 , 27582
+Utopia State 207 , 27583
+Utopia State 208 , 27584
+Utopia State 209 , 27585
+Utopia State 209 , 27586
+Utopia State 210 , 27587
+Utopia State 210 , 27588
+Utopia State 211 , 27589
+Utopia State 212 , 27590
+Utopia State 212 , 27591
+Utopia State 212 , 27592
+Utopia State 213 , 27593
+Utopia State 214 , 27594
+Utopia State 215 , 27595
+Utopia State 216 , 27596
+Utopia State 217 , 27597
+Utopia State 218 , 27598
+Utopia State 219 , 27599
+Utopia State 220 , 27600
+Utopia State 221 , 29401
+Utopia State 222 , 29402
+Utopia State 223 , 29403
+Utopia State 224 , 29404
+Utopia State 225 , 29405
+Utopia State 226 , 29406
+Utopia State 227 , 29407
+Utopia State 228 , 29408
+Utopia State 229 , 29409
+Utopia State 230 , 29410
+Utopia State 231 , 29411
+Utopia State 232 , 29412
+Utopia State 233 , 29413
+Utopia State 234 , 29414
+Utopia State 238 , 29415
+Utopia State 239 , 29416
+Utopia States , 29417
+Utopia States 141414 , 29418
+Georgia , 29419
+Georgia , 29420
+ohio , 57863
+NEW YORK , 1
+ny , 57870
+Texas-Arizona , 4
+Georgia , 29421
+Georgia , 29422
+Georgia , 29423
+ny , 57871
+NY , 57878
+NJ , 57879
+LLLLL , 57887
+ohio , 31083
+ohio , 31084
+NJ , 31094
+FL , 31095
+texas , 57899
+Nevadaa , 29434
+Nevadaa , 29435
+Russelsheim , 29436
+Russelsheim , 29437
+Russelsheim , 29438
+Russelsheim , 29439
+Russelsheim , 29440
+Russelsheim , 29441
+Russelsheim , 29442
+Russelsheim , 29443
+Russelsheim , 29444
+Russelsheim , 29445
+Ulkesizler , 29446
+Ulkesizler , 29447
+Russelsheim , 29448
+texas , 57900
+texas , 58951
+NorthSouthCarolina , 58952
+texas , 58953
+texas , 58954
+texas , 58955
+Ulkesizler , 31055
+texas , 58956
+texas , 58957
+texas , 58958
+texas , 58959
+texas , 58960
+texas , 58961
+texas , 58962
+texas , 58963
+texas , 58964
+texas , 58965
+NorthSouthCarolina , 58966
+texas , 58967
+NorthSouthCarolina , 58969
+texas , 58972
+texas , 58973
+texas , 58974
+NorthSouthCarolina , 58993
+ohio , 58994
+NorthSouthCarolina , 58995
+Dallas , 59102
+California , 59103
+Trabzon , 59105
+Dallas , 59120
+California , 59121
+Manisa , 59122
+Trabzon , 59123
+chicago , 59124
+chicago , 59125
+chicago , 59126
+Dallas , 59127
+California , 59128
+Manisa , 59129
+Trabzon , 59130
+Dallas , 59203
+California , 59208
+Dallas , 59211
+Dallas , 59216
+Malatya , 59229
+Afyon , 59230
+Luleburgaz , 59231
+Adana , 59232
+Hatay , 59233
+Malatya , 59234
+Afyon , 59235
+Luleburgaz , 59236
+Adana , 59237
+Hatay , 59238
+Bayburt , 59243
+Bayburt , 59248
+Bayburt , 59249
+Bayburt , 59250
+Bayburt , 59357
+null , 59362
+FL , 57880
+Astate , 57865
+ , 57889
+null , 57890
+ohio , 31086
+ohio , 31087
+texas , 58968
+texas , 58975
+ohio , 31088
+null , 31089
+null , 31090
+texas , 58976
+texas , 58977
+Koblenz , 25390
+Koblenz , 25391
+Koblenz , 25392
+country , 31091
+Koblenz , 25393
+Koblenz , 25394
+Koblenz , 25395
+Koblenz , 25396
+TR , 31099
+Koblenz , 25397
+Manisa , 59104
+California , 59107
+Haute-Normandie , 21564
+Ile-de-France , 21565
+Dallas , 59110
+Alsace , 21567
+California , 59111
+Auvergne , 21569
+Manisa , 59112
+Trabzon , 59113
+Bretagne , 21572
+Dallas , 59131
+Champagne-Ardenne , 21574
+Corse (Corsica) , 21575
+Koblenz , 25398
+Koblenz , 25399
+Koblenz , 25400
+Koblenz , 27501
+Alsace , 19207
+Aquitaine , 19208
+Virginia , 27502
+Basse-Normandie  , 19210
+Bourgogne , 19211
+Virginia , 27503
+Virginia , 27504
+Virginia , 27506
+Virginia , 27507
+Virginia , 27508
+Virginia , 27509
+Virginia , 27510
+Virginia , 27511
+Virginia , 27512
+Virginia , 27513
+Virginia , 27514
+Virginia , 27515
+Virginia , 27516
+Franche-Comte , 21576
+Limousin , 21577
+Lorraine , 21578
+Midi-Pyrenees , 21579
+California , 59132
+Pays de la Loire , 21581
+Manisa , 59133
+Trabzon , 59134
+Provence-Alpes-Cote-d'Azur , 21584
+Rhone-Alpes , 21585
+ATHENS , 21586
+Virginia , 27517
+Virginia , 27518
+Istanbul , 21589
+HAMBURGG , 21590
+BREMENN , 21591
+Virginia , 27519
+Virginia , 27520
+Virginia , 27521
+Virginia , 27522
+Washington , 21596
+Virginia , 27523
+Virginia , 27524
+Virginia , 27525
+Koblenz , 27526
+Koblenz , 27527
+Koblenz , 27528
+TEXAS , 22703
+HAMBURGG , 22704
+BREMENN , 22705
+WASHINGTONN_DC , 22706
+HAMBURGG , 22707
+BREMENN , 22708
+WASHINGTONN_DC , 22709
+HAMBURGG , 22710
+BREMENN , 22711
+WASHINGTONN_DC , 22712
+HAMBRG , 22713
+HAMBRG , 22714
+HAMBRG , 22715
+HAMBRG , 22716
+HAMBRG , 22717
+HAMBRG , 22718
+JERENIMO , 22719
+Baden-Wurttemberg , 22720
+Baden-Wurttemberg , 22721
+Koblenz , 22722
+Koblenz , 22723
+ARIZONA , 22724
+Koblenz , 27529
+Amsterdam , 22726
+Amsterdam , 22727
+Amsterdam , 22728
+Mecklenburg , 22729
+Virginia , 22730
+Washington , 22731
+Malatya , 22732
+Karaman , 22733
+Karaman , 22734
+Karaman , 22735
+Yozgat , 22736
+karaman , 22737
+ADN-ADN , 22738
+Koblenz , 27530
+PARIS-PARIS , 22743
+FRANKFURT , 22744
+FRANKFURT , 22745
+Koblenz , 27531
+Koblenz , 27532
+Auvergne , 27533
+Auvergne , 27534
+Saarland , 22750
+Kansas , 25351
+Auvergne , 27535
+Helsinki , 25353
+Helsinki , 25354
+Helsinki , 25355
+Helsinki , 25356
+Helsinki , 25357
+Helsinki , 25358
+Utah , 25359
+Utah , 25360
+FRANKFURT , 25361
+PARIS , 25362
+PARIS , 25363
+Auvergne , 27536
+Auvergne , 27537
+Caykara , 25370
+California , 59204
+Manisa , 59205
+Dallas , 59212
+Dallas , 59213
+washington , 59217
+Bayburt , 59239
+Bayburt , 59244
+Bayburt , 59351
+NorthSouthCarolina , 77
+Auvergne , 27538
+Auvergne , 27539
+Auvergne , 27541
+Auvergne , 27544
+Auvergne , 27546
+Centre , 27548
+Centre , 27549
+Centre , 27551
+Centre , 27553
+NY , 31077
+NJ , 31078
+FL , 31079
+Hey , 31096
+karaman , 4444
+Hey , 31097
+karaman , 122
+karaman , 121
+japonya , 120
+Ankara , 15
+ohio , 57853
+ohio , 57857
+ohio , 57859
+ohio , 57860
+ohio , 57861
+Texas , 57866
+Florida , 57867
+Oklahoma , 57868
+n , 31081
+ohio , 31092
+null , 57873
+null , 57874
+NY , 57881
+NJ , 57882
+FL , 57883
+ , 57891
+null , 57894
+Manisa , 57895
+NorthSouthCarolina , 58970
+texas , 58978
+texas , 58979
+texas , 58980
+texas , 58981
+texas , 58982
+texas , 58983
+texas , 58984
+texas , 58985
+texas , 58986
+texas , 58987
+texas , 58988
+texas , 58989
+texas , 58990
+Dallas , 58997
+California , 58998
+Manisa , 58999
+texas , 59101
+Dallas , 59106
+Manisa , 59108
+Trabzon , 59109
+chicago , 59135
+Dallas , 59136
+California , 59137
+Manisa , 59138
+Trabzon , 59139
+chicago , 59140
+Dallas , 59141
+California , 59142
+Manisa , 59143
+Trabzon , 59144
+Dallas , 59145
+California , 59146
+Manisa , 59147
+Trabzon , 59148
+Trabzon , 59206
+Dallas , 59207
+Manisa , 59209
+Dallas , 59214
+washington , 59218
+Bayburt , 59240
+Bayburt , 59241
+Bayburt , 59245
+Bayburt , 59352
+Bayburt , 59353
+Bayburt , 59359
+Bayburt , 59360
+Bayburt , 59363
+Bayburt , 59369
+NorthSouthCarolina , 59374
+null , 59377
+Eskisehir , 59382
+Denizli , 59383
+Eskisehir , 59386
+Denizli , 59387
+Eskisehir , 59390
+Denizli , 59391
+Eskisehir , 59394
+Denizli , 59395
+Eskisehir , 59398
+Denizli , 59399
+Africa , 59755
+Russia , 59756
+Africa , 59757
+Russia , 59758
+Africa , 59765
+Russia , 59766
+Africa , 59769
+Russia , 59770
+Africa , 59776
+Russia , 59777
+Africa , 59778
+Russia , 59779
+Bayburt , 59780
+Africa , 59783
+Russia , 59784
+Africa , 59787
+Russia , 59788
+Africa , 59789
+Russia , 59790
+Russia , 59792
+Arizona , 59795
+Arizona , 59797
+Arizona , 59798
+Arizona , 59799
+Russia , 59801
+Africa , 59802
+Russia , 59803
+Hawaii , 59808
+Indiana , 59809
+Bornova , 59810
+Bayrakli , 59811
+Karsiyaka , 59812
+Hawaii , 59813
+Indiana , 59814
+Hawaii , 59826
+Indiana , 59827
+Hawaii , 59830
+Indiana , 59831
+ohioohio , 59836
+ooooooo , 59842
+NY , 59846
+NJ , 59847
+FL , 59848
+Bayburt , 59902
+Bayburt , 59903
+Bayburt , 59906
+Bayburt , 59908
+null , 59911
+FLyyda , 59914
+FLyyda , 59918
+FLyydasa , 59919
+Bayburt , 59926
+Baye , 59931
+New York1 , 59939
+New York1 , 59944
+New York1 , 59946
+New York1 , 59948
+Maine , 59949
+Lowa , 59950
+New York1 , 60206
+New York1 , 60207
+Lund , 60210
+Auvergne , 27540
+Auvergne , 27545
+Centre , 27547
+Centre , 27552
+Kobiz , 31080
+Hey , 31098
+ohio , 31100
+ohio , 57854
+ohio , 57858
+California , 57869
+null , 57875
+null , 57876
+Guzaystates , 57877
+NY , 57884
+NJ , 57885
+null , 31082
+NY , 31093
+FL , 57886
+texas , 57896
+texas , 57897
+texas , 57898
+NorthSouthCarolina , 58971
+texas , 58991
+texas , 58992
+Trabzon , 59000
+Dallas , 59114
+Dallas , 59115
+California , 59116
+Manisa , 59117
+Trabzon , 59118
+chicago , 59119
+Dallas , 59149
+California , 59150
+Manisa , 59201
+Trabzon , 59202
+Trabzon , 59210
+Dallas , 59215
+Malatya , 59219
+Afyon , 59220
+Luleburgaz , 59221
+Adana , 59222
+Hatay , 59223
+Malatya , 59224
+Afyon , 59225
+Luleburgaz , 59226
+Adana , 59227
+Hatay , 59228
+Bayburt , 59242
+Bayburt , 59246
+Bayburt , 59247
+Bayburt , 59354
+Bayburt , 59355
+Bayburt , 59356
+null , 59361
+NorthSouthCarolina , 59372
+NorthSouthCarolina , 59373
+NorthSouthCarolina , 59375
+NorthSouthCarolina , 59376
+Eskisehir , 59378
+Denizli , 59379
+Eskisehir , 59380
+Denizli , 59381
+Eskisehir , 59384
+Denizli , 59385
+Eskisehir , 59388
+Denizli , 59389
+Eskisehir , 59392
+Denizli , 59393
+Eskisehir , 59396
+Denizli , 59397
+Africa , 59400
+Russia , 59751
+Africa , 59752
+Russia , 59753
+Africa , 59759
+Russia , 59760
+Africa , 59761
+Russia , 59762
+Africa , 59763
+Russia , 59764
+Africa , 59767
+Russia , 59768
+Africa , 59771
+Russia , 59772
+Africa , 59774
+Russia , 59775
+Bayburt , 59781
+Bayburt , 59782
+Africa , 59785
+Russia , 59786
+Africa , 59791
+Africa , 59793
+Russia , 59794
+Arizona , 59796
+Africa , 59800
+Hawaii , 59804
+Indiana , 59805
+Hawaii , 59806
+Indiana , 59807
+Hawaii , 59815
+Indiana , 59816
+Bornova , 59817
+Bayrakli , 59818
+Karsiyaka , 59819
+Hawaii , 59820
+Indiana , 59821
+Hawaii , 59822
+Indiana , 59823
+Hawaii , 59824
+Indiana , 59825
+Hawaii , 59828
+Indiana , 59829
+Hawaii , 59832
+Indiana , 59833
+Hawaii , 59834
+Indiana , 59835
+ooooooo , 59837
+ooooooo , 59838
+ooooooo , 59839
+NY , 59843
+NJ , 59844
+FL , 59845
+NY , 59849
+NJ , 59850
+FL , 59901
+Bayburt , 59904
+Bayburt , 59907
+NewState , 59909
+NewState , 59910
+Astate1 , 59912
+FLyyda , 59915
+FLyyda , 59916
+FLyyda , 59917
+Bayburt , 59920
+Bayburt , 59924
+Bayburt , 59925
+NewState3 , 59934
+NorthSouthCarolina , 59935
+NorthSouthCarolina , 59940
+NorthSouthCarolina , 59941
+New York1 , 59942
+New York1 , 59943
+New York1 , 59945
+New York1 , 59947
+FL , 60201
+New York1 , 60202
+FLfloridaho , 60204
+New York1 , 60205
+Lund , 60208
+Lund , 60209
+Auvergne , 27542
+Auvergne , 27543
+Centre , 27550
+null , 57851
+ohio , 57855
+ohio , 57862
+LAMUISLAND , 27564
+LAMUISLAND , 27565
+Baden-Wurttemberg , 27566
+Baden-Wurttemberg , 27567
+Baden-Wurttemberg , 27568
+Utopia State 101 , 27569
+Utopia State 101 , 27570
+Utopia State 10 , 27571
+Utopia State 102 , 27572
+Utopia State 10 , 27573
+Utopia State 103 , 27574
+Houston Insert , 2
+Texas-Arizona , 3
+Utopia State 202 , 27575
+Utopia State 202 , 27576
+Utopia State 203 , 27577
+Utopia State 204 , 27578
+Utopia State 204 , 27579
+Utopia State 205 , 27580
+Utopia State 206 , 27581
+Utopia State 207 , 27582
+Utopia State 207 , 27583
+Utopia State 208 , 27584
+Utopia State 209 , 27585
+Utopia State 209 , 27586
+Utopia State 210 , 27587
+Utopia State 210 , 27588
+Utopia State 211 , 27589
+Utopia State 212 , 27590
+Utopia State 212 , 27591
+Utopia State 212 , 27592
+Utopia State 213 , 27593
+Utopia State 214 , 27594
+Utopia State 215 , 27595
+Utopia State 216 , 27596
+Utopia State 217 , 27597
+Utopia State 218 , 27598
+Utopia State 219 , 27599
+Utopia State 220 , 27600
+Utopia State 221 , 29401
+Utopia State 222 , 29402
+Utopia State 223 , 29403
+Utopia State 224 , 29404
+Utopia State 225 , 29405
+Utopia State 226 , 29406
+Utopia State 227 , 29407
+Utopia State 228 , 29408
+Utopia State 229 , 29409
+Utopia State 230 , 29410
+Utopia State 231 , 29411
+Utopia State 232 , 29412
+Utopia State 233 , 29413
+Utopia State 234 , 29414
+Utopia State 238 , 29415
+Utopia State 239 , 29416
+Utopia States , 29417
+Utopia States 141414 , 29418
+Georgia , 29419
+Georgia , 29420
+ohio , 57863
+NEW YORK , 1
+ny , 57870
+Texas-Arizona , 4
+Georgia , 29421
+Georgia , 29422
+Georgia , 29423
+ny , 57871
+NY , 57878
+NJ , 57879
+LLLLL , 57887
+ohio , 31083
+ohio , 31084
+NJ , 31094
+FL , 31095
+texas , 57899
+Nevadaa , 29434
+Nevadaa , 29435
+Russelsheim , 29436
+Russelsheim , 29437
+Russelsheim , 29438
+Russelsheim , 29439
+Russelsheim , 29440
+Russelsheim , 29441
+Russelsheim , 29442
+Russelsheim , 29443
+Russelsheim , 29444
+Russelsheim , 29445
+Ulkesizler , 29446
+Ulkesizler , 29447
+Russelsheim , 29448
+texas , 57900
+texas , 58951
+NorthSouthCarolina , 58952
+texas , 58953
+texas , 58954
+texas , 58955
+Ulkesizler , 31055
+texas , 58956
+texas , 58957
+texas , 58958
+texas , 58959
+texas , 58960
+texas , 58961
+texas , 58962
+texas , 58963
+texas , 58964
+texas , 58965
+NorthSouthCarolina , 58966
+texas , 58967
+NorthSouthCarolina , 58969
+texas , 58972
+texas , 58973
+texas , 58974
+NorthSouthCarolina , 58993
+ohio , 58994
+NorthSouthCarolina , 58995
+Dallas , 59102
+California , 59103
+Trabzon , 59105
+Dallas , 59120
+California , 59121
+Manisa , 59122
+Trabzon , 59123
+chicago , 59124
+chicago , 59125
+chicago , 59126
+Dallas , 59127
+California , 59128
+Manisa , 59129
+Trabzon , 59130
+Dallas , 59203
+California , 59208
+Dallas , 59211
+Dallas , 59216
+Malatya , 59229
+Afyon , 59230
+Luleburgaz , 59231
+Adana , 59232
+Hatay , 59233
+Malatya , 59234
+Afyon , 59235
+Luleburgaz , 59236
+Adana , 59237
+Hatay , 59238
+Bayburt , 59243
+Bayburt , 59248
+Bayburt , 59249
+Bayburt , 59250
+Bayburt , 59357
